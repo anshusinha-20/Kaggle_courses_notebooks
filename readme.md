@@ -13,3 +13,18 @@ This folder contains Jupyter notebooks (`*.ipynb`) completed as exercises for th
 - **Working with External Libraries:** Introduction to using external libraries in Python.
 
 Feel free to explore the notebooks in this folder to deepen your understanding of Python programming.
+
+# 🤖 Introduction to Machine Learning
+
+This folder contains Jupyter notebooks (`*.ipynb`) completed as exercises for the Introduction to Machine Learning course on Kaggle. These notebooks cover various topics related to machine learning, providing step-by-step information and explanations.
+
+## Topics Covered
+
+- **Basic Data Exploration:** Introduction to data exploration techniques, including loading and inspecting datasets, understanding data types, and handling missing values.
+- **Your First Machine Learning Model:** Building your first machine learning model using popular algorithms like linear regression, decision trees, and random forests.
+- **Model Validation:** Understanding the importance of model validation, cross-validation techniques, and evaluating model performance metrics.
+- **Underfitting and Overfitting:** Exploring the concepts of underfitting and overfitting, and techniques to mitigate these issues.
+- **Random Forests:** An in-depth look at random forest algorithms, including ensemble learning, feature importance, and hyperparameter tuning.
+- **Machine Learning Competitions:** Introduction to machine learning competitions on Kaggle, understanding evaluation metrics, and strategies for feature engineering and model optimization.
+
+Feel free to explore the notebooks in this folder to gain practical experience and enhance your understanding of machine learning concepts.
