@@ -12,8 +12,6 @@ This folder contains Jupyter notebooks (`*.ipynb`) completed as exercises for th
 - **Strings and Dictionaries:** Manipulating strings and understanding dictionaries as key-value pairs.
 - **Working with External Libraries:** Introduction to using external libraries in Python.
 
-Feel free to explore the notebooks in this folder to deepen your understanding of Python programming.
-
 # 🤖 Introduction to Machine Learning
 
 This folder contains Jupyter notebooks (`*.ipynb`) completed as exercises for the Introduction to Machine Learning course on Kaggle. These notebooks cover various topics related to machine learning, providing step-by-step information and explanations.
@@ -27,4 +25,15 @@ This folder contains Jupyter notebooks (`*.ipynb`) completed as exercises for th
 - **Random Forests:** An in-depth look at random forest algorithms, including ensemble learning, feature importance, and hyperparameter tuning.
 - **Machine Learning Competitions:** Introduction to machine learning competitions on Kaggle, understanding evaluation metrics, and strategies for feature engineering and model optimization.
 
-Feel free to explore the notebooks in this folder to gain practical experience and enhance your understanding of machine learning concepts.
+# 🐼 Pandas Folder
+
+This folder contains Jupyter notebooks (`*.ipynb`) completed as exercises for the Pandas course on Kaggle. These notebooks cover various topics related to data manipulation and analysis using the Pandas library, providing step-by-step information and explanations.
+
+## Topics Covered
+
+- **Creating, Reading, and Writing:** Learn how to create, read, and write data using Pandas, including importing data from various file formats such as CSV, Excel, and SQL databases.
+- **Indexing, Selecting, and Assigning:** Explore different techniques to access and manipulate specific subsets of data using indexing, selecting, and assigning operations.
+- **Summary Functions and Maps:** Discover summary functions that provide statistical insights about your data, and learn how to apply mapping operations to transform your data.
+- **Grouping and Sorting:** Understand how to group and aggregate data based on specific criteria, and how to sort your data for better analysis and visualization.
+- **Data Types and Missing Values:** Gain knowledge about handling data types, converting between them, and dealing with missing or null values in your datasets.
+- **Renaming and Combining:** Learn techniques for renaming columns, merging datasets, and combining data from multiple sources.
