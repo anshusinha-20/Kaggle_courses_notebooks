@@ -25,7 +25,7 @@ This folder contains Jupyter notebooks (`*.ipynb`) completed as exercises for th
 - **Random Forests:** An in-depth look at random forest algorithms, including ensemble learning, feature importance, and hyperparameter tuning.
 - **Machine Learning Competitions:** Introduction to machine learning competitions on Kaggle, understanding evaluation metrics, and strategies for feature engineering and model optimization.
 
-# 🐼 Pandas Folder
+# 🐼 Pandas
 
 This folder contains Jupyter notebooks (`*.ipynb`) completed as exercises for the Pandas course on Kaggle. These notebooks cover various topics related to data manipulation and analysis using the Pandas library, providing step-by-step information and explanations.
 
