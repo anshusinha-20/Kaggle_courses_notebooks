@@ -37,3 +37,28 @@ This folder contains Jupyter notebooks (`*.ipynb`) completed as exercises for th
 - **Grouping and Sorting:** Understand how to group and aggregate data based on specific criteria, and how to sort your data for better analysis and visualization.
 - **Data Types and Missing Values:** Gain knowledge about handling data types, converting between them, and dealing with missing or null values in your datasets.
 - **Renaming and Combining:** Learn techniques for renaming columns, merging datasets, and combining data from multiple sources.
+
+# 🤖 Intermediate Machine Learning
+
+This folder contains Jupyter Notebook files (`ipynb`) completed as exercises for the Intermediate Machine Learning course on Kaggle. Each notebook focuses on a specific topic related to intermediate machine learning techniques and concepts.
+
+## Topics Covered
+
+The notebooks in this folder cover the following topics:
+
+- **Introduction:** A brief introduction to intermediate machine learning concepts and techniques.
+
+- **Missing Values:** Handling missing values in datasets using various strategies such as imputation and deletion.
+
+- **Categorical Variables:** Techniques for handling categorical variables in machine learning models, including one-hot encoding and label encoding.
+
+- **Pipelines:** Implementing data preprocessing and model building pipelines to streamline the machine learning workflow.
+
+- **Cross Validation:** Understanding and implementing cross-validation techniques to evaluate model performance.
+
+- **XGBoost:** Introduction to the XGBoost algorithm and its application in machine learning.
+
+- **Data Leakage:** Identifying and handling data leakage issues that can affect the accuracy of machine learning models.
+
+
+
