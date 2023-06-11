@@ -1,3 +1,21 @@
+# 🧑🏻‍💻 Intro to Programming
+
+Welcome to the Intro to Programming folder! This folder contains Jupyter Notebook files (`ipynb`) completed as exercises for the Intro to Programming course on Kaggle. Each notebook focuses on a specific topic related to the fundamentals of programming.
+
+## Topics Covered
+
+The notebooks in this folder cover the following topics:
+
+- **Arithmetic and Variables:** Introduction to basic arithmetic operations and variable assignments in programming.
+
+- **Functions:** Understanding the concept of functions and how to define and use them in your code.
+
+- **Data Types:** Overview of different data types such as integers, floats, strings, and booleans.
+
+- **Conditions and Conditional Statements:** Exploring conditional statements such as `if`, `else`, and `elif` to make decisions in your code.
+
+- **Intro to Lists:** Introduction to lists, a fundamental data structure in programming, and how to perform operations on them.
+
 # 🐍 Python
 
 This folder contains Jupyter notebooks (`*.ipynb`) completed as exercises for the Python course on Kaggle. These notebooks cover various topics related to Python programming, providing step-by-step information and explanations.
