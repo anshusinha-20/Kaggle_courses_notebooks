@@ -78,5 +78,24 @@ The notebooks in this folder cover the following topics:
 
 - **Data Leakage:** Identifying and handling data leakage issues that can affect the accuracy of machine learning models.
 
+# 📊 Data Visualisation
 
+This folder contains Jupyter Notebook files (`ipynb`) completed as exercises for the Data Visualization course on Kaggle. Each notebook focuses on a specific topic related to visualizing data effectively.
 
+## Topics Covered
+
+The notebooks in this folder cover the following topics:
+
+- **Hello Seaborn:** Introduction to Seaborn, a popular data visualization library, and basic plotting techniques.
+
+- **Line Charts:** Creating line charts to visualize trends and changes in data over time or across categories.
+
+- **Bar Charts and Heatmaps:** Using bar charts to compare categories or values and heatmaps to display data in a color-coded matrix format.
+
+- **Scatter Plots:** Visualizing the relationship between two variables using scatter plots.
+
+- **Distributions:** Understanding and visualizing the distribution of data through histograms, kernel density estimation, and box plots.
+
+- **Choosing Plot Types and Custom Styles:** Exploring different types of plots and customizing their appearance to effectively communicate your data.
+
+- **Final Project:** A comprehensive project that brings together the concepts learned throughout the course to create meaningful visualizations.
